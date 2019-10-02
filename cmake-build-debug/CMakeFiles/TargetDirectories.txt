@@ -1,0 +1,3 @@
+C:/Users/valik/CLionProjects/pirv/lab1/cmake-build-debug/CMakeFiles/lab1.dir
+C:/Users/valik/CLionProjects/pirv/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/valik/CLionProjects/pirv/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

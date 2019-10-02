@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/valik/CLionProjects/pirv/lab1/main.cpp
+vector
+-
+cmath
+-
+iostream
+-
+omp.h
+-
+fstream
+-
+timer_util.h
+C:/Users/valik/CLionProjects/pirv/lab1/timer_util.h
+random.h
+C:/Users/valik/CLionProjects/pirv/lab1/random.h
+
+C:/Users/valik/CLionProjects/pirv/lab1/random.h
+random
+-
+
+C:/Users/valik/CLionProjects/pirv/lab1/timer_util.h
+chrono
+-
+
